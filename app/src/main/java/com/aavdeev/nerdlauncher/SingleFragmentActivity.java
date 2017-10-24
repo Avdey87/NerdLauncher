@@ -1,4 +1,4 @@
-package com.aavdeev.criminalintent;
+package com.aavdeev.nerdlauncher;
 
 import android.os.Bundle;
 import android.support.annotation.LayoutRes;
@@ -41,4 +41,6 @@ public abstract class SingleFragmentActivity extends AppCompatActivity {
 
         }
     }
+
+
 }
